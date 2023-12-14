@@ -1,6 +1,6 @@
 # Introduction à l'économie
 
-## I. Introduction générale
+## I. Introduction générale 
 
 1. **Définition et origine du terme "économie"**
 2. **Importance de l'Étude de l’Économie**
