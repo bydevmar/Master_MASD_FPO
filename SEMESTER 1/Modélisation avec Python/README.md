@@ -9,36 +9,38 @@ Bienvenue dans ce répertoire qui contient des ressources pour le cours de Pytho
 ## Table des matières
 
   
+1.  [Extras - (TD - TP - Exam) ](#Extras)
 
-1. [Variables](#variables)
+2.  [Variables](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/1-%20Variables)
 
-2. [Affichage](#affichage)
+3.  [Affichage](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/2-%20Affichage)
 
-3. [Listes](#listes)
+4.  [Listes](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/3-%20Listes)
 
-4. [Boucles et Comparaisons](#boucles-et-comparaisons)
+5.  [Boucles et Comparaisons](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/4-%20Boucles%20et%20Comparaisons)
 
-5. [Tests](#tests)
+6.  [Tests](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/5-%20Tests)
 
-6. [Fichiers](#fichiers)
+7.  [Fichiers](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/6-%20Fichiers)
 
-7. [Modules](#modules)
+8.  [Modules](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/7-%20Modules)
 
-8. [Fonctions](#fonctions)
+9.  [Fonctions](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/8-%20Fonctions)
 
-9. [Chaînes de caractères](#chaines-de-caracteres)
+10. [Chaînes de caractères](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/9-%20Cha%C3%AEnes%20de%20caract%C3%A8re)
 
-10. [Classes, Objets et Attributs](#classes-objets-et-attributs)
+11. [Classes, Objets et Attributs](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/10-%20Classes%20et%20Objets%20et%20Attributs)
 
-11. [Libraries pour Calcul Scientifique](#libraries-pour-calcul-scientifique)
+### Libraries pour Calcul Scientifique
 
-- [Numpy](#numpy)
+1.  [Numpy](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/11-%20Numpy)
 
-- [Scipy](#scipy)
+2.  [Pandas](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/12-%20Pandas)
 
-- [Matplotlib](#matplotlib)
+3.  [Matplotlib](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/13-Matplotlib)
 
-- [Pandas](#pandas)
+4.  [Scipy](https://github.com/bydevmar/Master_MASD_FPO/tree/bydev/SEMESTER%201/Mod%C3%A9lisation%20avec%20Python/14-%20Scipy)
+    
 
   
 
