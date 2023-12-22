@@ -61,8 +61,8 @@ Bienvenue dans le référentiel GitHub pour le cours d'Initiation à la Recherch
         -   La charte des thèses.
     -   La relation Encadrant-Doctorant.
 
-## Bibliographie
+8. **Bibliographie**
 
--   Liste des références utilisées dans le cours.
+    -   Liste des références utilisées dans le cours.
 
 N'hésitez pas à explorer les différentes sections et à contribuer au contenu si vous avez des suggestions d'amélioration. Merci de participer à ce cours d'Initiation à la Recherche Scientifique ! 📚🔍
