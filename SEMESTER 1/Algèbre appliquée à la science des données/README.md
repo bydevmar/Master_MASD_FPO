@@ -96,9 +96,4 @@ N'oubliez pas de consulter le sommaire pour naviguer facilement à travers les d
     4. Calculs de déterminants
     5. Applications des déterminants
 
-
-N'hésitez pas si vous avez d'autres demandes !
-
-
-
 Continuez votre exploration mathématique et n'oubliez pas que la clé de la compréhension réside dans la pratique et la persévérance. Bon apprentissage !
