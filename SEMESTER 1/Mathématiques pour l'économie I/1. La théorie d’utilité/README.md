@@ -35,8 +35,10 @@ III. **Conclusion**
 3. **L'utilité marginale:** Satisfaction de la consommation d'une unité supplémentaire de bien X.
 
 ### Calcul de l'utilité marginale
-   - Mathématique: \(U_{mx} = \frac{\Delta U}{\Delta X}\)  
-   - Économique: \(U_{mx} = \frac{dU}{dX}\)
+- Mathématique:
+ ### $$U_{mx} = \frac{\Delta U}{\Delta X}$$  
+   - Économique:
+ ### $$U_{mx} = \frac{dU}{dX}$$
 
 ## Évolution de l'utilité totale et de l'utilité marginale
 
@@ -52,8 +54,11 @@ III. **Conclusion**
 3. **L'équilibre du consommateur**
    - Définition: Maximisation d'utilité.
    - Conditions d'équilibre:
-      - \(\frac{U_{mx}}{P_x} = \frac{U_{my}}{P_y}\)
-      - Contrainte budgétaire: \(R = X \cdot P_x + Y \cdot P_y\)
+      - Condition d'équilibre:
+        $$\frac{U_{mx}}{P_x} = \frac{U_{my}}{P_y}$$
+      - Contrainte budgétaire:
+         $$R = X \cdot P_x + Y \cdot P_y$$
+
 
 ### Exemple de recherche d'équilibre
    - Revenu (R) du consommateur = 16.
@@ -83,3 +88,7 @@ Pour explorer la présentation:
 Pour des informations complémentaires:
 - Consultez les références pour approfondir vos connaissances.
 - Les vidéos explicatives sont également disponibles pour une compréhension visuelle.
+
+
+
+### 🚀 Bon apprentissage ! 📚
