@@ -1,0 +1,30 @@
+<cars>
+    <car>
+        <carName>Toyota Camry</carName>
+        <make>Toyota</make>
+        <model>Camry</model>
+        <year>2022</year>
+        <color>Blue</color>
+    </car>
+    <car>
+        <carName>Honda Accord</carName>
+        <make>Honda</make>
+        <model>Accord</model>
+        <year>2021</year>
+        <color>Silver</color>
+    </car>
+    <car>
+        <carName>Ford Mustang</carName>
+        <make>Ford</make>
+        <model>Mustang</model>
+        <year>2022</year>
+        <color>Red</color>
+    </car>
+    <car>
+        <carName>Chevrolet Malibu</carName>
+        <make>Chevrolet</make>
+        <model>Malibu</model>
+        <year>2020</year>
+        <color>Black</color>
+    </car>
+</cars>
