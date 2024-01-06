@@ -1,0 +1,33 @@
+{
+    "cars": [
+      {
+        "carName": "Toyota Camry",
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Blue"
+      },
+      {
+        "carName": "Honda Accord",
+        "make": "Honda",
+        "model": "Accord",
+        "year": 2021,
+        "color": "Silver"
+      },
+      {
+        "carName": "Ford Mustang",
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2022,
+        "color": "Red"
+      },
+      {
+        "carName": "Chevrolet Malibu",
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2020,
+        "color": "Black"
+      }
+    ]
+  }
+  
