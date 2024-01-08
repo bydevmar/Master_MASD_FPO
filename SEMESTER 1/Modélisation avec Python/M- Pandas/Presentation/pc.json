@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nom": "PC1",
+    "marque": "Dell",
+    "ram": 8,
+    "processeur": "Intel i5"
+  },
+  {
+    "id": 2,
+    "nom": "PC2",
+    "marque": "HP",
+    "ram": 16,
+    "processeur": "AMD Ryzen 7"
+  }
+]
