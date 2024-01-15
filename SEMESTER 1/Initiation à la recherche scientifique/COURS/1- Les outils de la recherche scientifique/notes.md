@@ -53,7 +53,6 @@ Un chercheur en informatique pourrait observer des utilisateurs navigant sur un 
 
 3. **Logiciels de traitement de texte et de gestion bibliographique (LaTeX, EndNote, Mendeley, Zotero, etc.) :**
    - *LaTeX:* Un système de préparation de documents largement utilisé pour la production de documents scientifiques en raison de sa puissance dans la création de documents bien formatés et de la gestion des références.
-   - 
    - *EndNote, Mendeley, Zotero:* Ces outils aident à organiser et gérer les références bibliographiques, facilitant la rédaction de rapports de recherche et d'articles.
 
 >En combinant ces outils, les chercheurs peuvent collecter, nettoyer, analyser, modéliser, simuler et présenter leurs résultats de manière efficace, tout en assurant la gestion appropriée des références bibliographiques. Cette approche complète permet une analyse rigoureuse et une communication claire des résultats de la recherche.
