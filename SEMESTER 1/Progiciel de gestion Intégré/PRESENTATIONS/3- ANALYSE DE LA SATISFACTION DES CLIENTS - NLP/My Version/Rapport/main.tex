@@ -1,0 +1,128 @@
+\documentclass{rapportCS}
+\usepackage{lipsum}
+\setlength{\headheight}{80.63582pt}
+\addtolength{\topmargin}{-20.9567pt}
+\title{Rapport de projet - NLP}
+
+\begin{document}
+
+%----------- Informations du rapport ---------
+
+\logouniv{logos/fpo_logo.png}
+
+\titre{L'analyse des sentiments avec NLP} % Titre du fichier
+
+\mention{Mathématiques Appliquées pour la Science des Données} % Nom de la Mention
+\trigrammemention{Master MASD} % Pour le bas de la page
+\master{Master Informatique} % Nom du master
+%\filiere{Filière Management de projet et Transformation} % Nom de la filière
+
+\eleve{BOUHLALI Abdelfattah}
+
+\dates{2023 - 2024}
+
+% Informations tuteurs écoles
+\tuteuruniv{
+    \textsc{GAOU Salma} \\
+    \textsc{HAMIDI Charaf} 
+} 
+
+
+%----------- Initialisation -------------------
+        
+\fairemarges %Afficher les marges
+\fairepagedegarde %Créer la page de garde
+
+%----------- Abstract -------------------
+\vspace*{\stretch{1}}
+\begin{center}
+	\begin{abstract}
+        \lipsum[1]
+        \rule{\linewidth}{0.2 mm} \\[0.4 cm]
+        \begin{center}\textbf{Summary :}\end{center} 
+        \lipsum[2]
+    \end{abstract}
+\end{center}
+\vspace*{\stretch{1}}
+\newpage
+
+%------------ Table des matières ----------------
+
+\tabledematieres % Créer la table de matières
+
+%------------ Corps du rapport ----------------
+
+
+%------------ Introduction ----------------
+
+\section{Introduction} 
+% Effacer les lignes suivantes et écrire le texte souhaité
+Le rapport doit faire entre 20 et 30 pages. Les figures et tableaux doivent être référencés dans le texte. 
+Vous devez faire deux résumés, un en anglais, l'autre en français qui seront inclus sur la première page du document.
+
+Nous vous rappellons que votre document présente les travaux effectués sur la période du S4 pour les M2 et fin de S2 pour les M1.
+\begin{itemize}
+    \item Pour les initiaux : c'est votre période de stage en entreprise.
+    \item Pour les alternants : c'est la période où vous êtes en charge de votre plus gros projet, avec un suivi sur le long terme. Il faudra bien prendre garde à ce que le contenu du rapport ne soit pas un copier coller du rapport intermédiaire. Notamment, la partie commune entre ces deux rapports ne doit pas dépasser 30\% du contenu.
+\end{itemize}
+
+
+
+\newpage
+\section{Section 2}
+
+\lipsum[1-2]
+
+\section{Section 3}
+\lipsum[3-4]
+\newpage
+
+
+
+
+
+%------------- Commandes utiles ----------------
+
+\section{Quelques commandes}
+
+Voici quelques commandes utiles :
+
+
+
+\subsection{Insertion de figures}
+%------ Pour insérer et citer une image centralisée -----
+% Le premier argument est le chemin pour la photo
+% Le deuxième est la hauteur de la photo
+% Le troisième la légende
+% Le quatrième le label
+Ici, je cite l'image \ref{fig:my_label} dans le texte.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{logos/react.png}
+    \caption{Mettre une légende explicite à votre figure}
+    \label{fig:my_label}
+\end{figure}
+
+\subsection{Insertion d'équation}
+%------- Pour insérer et citer une équation --------------
+
+\begin{equation} \label{eq: exemple}
+\rho + \Delta = 42
+\end{equation}
+
+L'équation \ref{eq: exemple} est citée ici. 
+
+\subsection{Insertion d'une référence bibliographique}
+Les références (articles scientifiques, articles de journaux, blogs, pages web) doivent être mentionnées dans le texte par une balise \cite{maref} et fait le lien avec la citation incluse dans la bibliographie.
+
+
+\begin{thebibliography}{15} %nb de références possibles : 15
+\bibitem{maref}
+	  Leslie Lamport,
+	  \emph{\LaTeX: A Document Preparation System}.
+	  Addison Wesley, Massachusetts,
+	  2nd Edition,
+	  1994.
+\end{thebibliography}
+\end{document}
+  
