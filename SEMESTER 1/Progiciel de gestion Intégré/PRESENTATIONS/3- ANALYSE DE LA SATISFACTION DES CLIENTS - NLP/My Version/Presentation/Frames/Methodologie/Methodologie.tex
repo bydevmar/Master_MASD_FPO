@@ -1,17 +1,90 @@
 \section{Méthodologie}
 
-\begin{frame}{Definition, Proposition and Theorem}
+\begin{frame}
+    \frametitle{Étapes de la Méthodologie}
+    \begin{enumerate}
+        \item \textbf{Collecte de Données} :
+            \begin{itemize}
+                \item Collecte des avis sur les produits alimentaires d'Amazon.
+                \item Utilisation de la fonction \texttt{data.info()} pour examiner la structure de l'ensemble de données.
+            \end{itemize}
+        \item \textbf{Informations Générales sur la Dataset} :
+            \begin{itemize}
+                \item Utilisation de la fonction \texttt{data.info()} pour obtenir une vue détaillée de la structure de l'ensemble de données.
+                \item Analyse des attributs et types de données de chaque colonne.
+            \end{itemize}
+    \end{enumerate}
+\end{frame}
 
-\begin{definition}[some explanations]
-\lipsum[3][1-4]
-\end{definition}
+\begin{frame}
+    \frametitle{Étapes de la Méthodologie (suite)}
 
-\begin{proposition}\label{prop:1}
-\lipsum[3][5-8]
-\end{proposition}
+    \begin{enumerate}
+        \setcounter{enumi}{2}
+        \item \textbf{Statistiques Descriptives pour les Attributs Numériques} :
+            \begin{itemize}
+                \item Utilisation de la commande \texttt{data['Score'].describe()} pour obtenir des statistiques descriptives pour l'attribut "Score".
+                \item Visualisation des résultats avec des graphiques.
+            \end{itemize}
+        \item \textbf{Vérification des Valeurs Manquantes ou d'Incohérences} :
+            \begin{itemize}
+                \item Utilisation de la commande \texttt{data.isnull().sum()} pour détecter les valeurs manquantes dans chaque colonne.
+                \item Résumé des résultats.
+            \end{itemize}
+    \end{enumerate}
+\end{frame}
 
-\begin{theorem}\label{theorem:generalization bound}
-\lipsum[3][9-12]
-\end{theorem}
-    
+\begin{frame}
+    \frametitle{Étapes de la Méthodologie (suite)}
+
+    \begin{enumerate}
+        \setcounter{enumi}{4}
+        \item \textbf{Vérifier les Valeurs Uniques dans Chaque Colonne} :
+            \begin{itemize}
+                \item Utilisation de la commande \texttt{data.nunique()} pour explorer la diversité des valeurs dans chaque colonne.
+                \item Interprétation des résultats.
+            \end{itemize}
+        \item \textbf{Prétraitement des Données} :
+            \begin{itemize}
+                \item Élimination des lignes en double et gestion des valeurs manquantes.
+            \end{itemize}
+    \end{enumerate}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Étapes de la Méthodologie (suite)}
+
+    \begin{enumerate}
+        \setcounter{enumi}{6}
+        \item \textbf{Analyse Exploratoire des Données} :
+            \begin{itemize}
+                \item Distribution des scores.
+                \item Calcul de la moyenne et de la médiane des scores.
+                \item Distribution des sentiments.
+            \end{itemize}
+        \item \textbf{Traitement du Texte} :
+            \begin{itemize}
+                \item Suppression des URL, des balises HTML, des caractères non alphabétiques.
+                \item Conversion en minuscules et suppression des stopwords.
+            \end{itemize}
+    \end{enumerate}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Étapes de la Méthodologie (suite)}
+
+    \begin{enumerate}
+        \setcounter{enumi}{8}
+        \item \textbf{Utilisation du Modèle Pré-entraîné RoBERTa} :
+            \begin{itemize}
+                \item Initialisation du modèle RoBERTa et du tokenizer.
+                \item Fonction d'évaluation des scores de RoBERTa pour l'analyse de sentiments.
+                \item Analyse de sentiments avec RoBERTa sur l'ensemble de données.
+            \end{itemize}
+        \item \textbf{Transformation et Fusion des Résultats} :
+            \begin{itemize}
+                \item Stockage des résultats du modèle avec les données d'origine.
+                \item Exportation des résultats en CSV (\texttt{nlp\_results.csv}).
+            \end{itemize}
+    \end{enumerate}
 \end{frame}

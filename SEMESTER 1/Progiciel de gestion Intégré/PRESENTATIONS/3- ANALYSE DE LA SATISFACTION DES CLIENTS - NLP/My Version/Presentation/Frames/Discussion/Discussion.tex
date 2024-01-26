@@ -1,55 +1,40 @@
 \section{Discussion}
 
-\begin{frame}{Tables}
-    \begin{table}
-        \caption{Units for Magnetic Properties}
-        \label{table}
-        \setlength{\tabcolsep}{3pt}
-        \begin{tabular}{p{40pt}p{100pt}p{140pt}}
-        \hline
-        Symbol& 
-        Quantity& 
-        Conversion from Gaussian and \par CGS EMU to SI $^{\mathrm{a}}$ \\
-        \hline
-        $\Phi $& 
-        magnetic flux& 
-        1 Mx $\to  10^{-8}$ Wb $= 10^{-8}$ V$\cdot $s \\
-        $B$& 
-        magnetic flux density, \par magnetic induction& 
-        1 G $\to  10^{-4}$ T $= 10^{-4}$ Wb/m$^{2}$ \\
-        $H$& 
-        magnetic field strength& 
-        1 Oe $\to  10^{3}/(4\pi )$ A/m \\
-        $m$& 
-        magnetic moment& 
-        1 erg/G $=$ 1 emu \par $\to 10^{-3}$ A$\cdot $m$^{2} = 10^{-3}$ J/T \\
-        $M$& 
-        magnetization& 
-        1 erg/(G$\cdot $cm$^{3}) =$ 1 emu/cm$^{3}$ \par $\to 10^{3}$ A/m \\
-        4$\pi M$& 
-        magnetization& 
-        1 G $\to  10^{3}/(4\pi )$ A/m \\
-        $\sigma $& 
-        specific magnetization& 
-        1 erg/(G$\cdot $g) $=$ 1 emu/g $\to $ 1 A$\cdot $m$^{2}$/kg \\
-        \hline
-        \multicolumn{3}{p{280pt}}{Vertical lines are optional in tables. Statements that serve as captions for 
-        the entire table do not need footnote letters. }
-        \end{tabular}
-        \label{tab1}
-    \end{table}
-\end{frame}
-
-
-\begin{frame}{References}%[allowframebreaks] if too many references
-    \renewcommand*{\bibfont}{\footnotesize}
-    \bibliography{ref}
-    \bibliographystyle{apalike}
-    % \tiny\bibliographystyle{alpha}
+\begin{frame}
+    \frametitle{Points forts de RoBERTa}
+    \begin{itemize}
+        \item Compréhension fine des sentiments : RoBERTa excelle dans la compréhension fine des sentiments exprimés dans les avis, distinguant entre positif, négatif et neutre.
+        \item Capacité à identifier les tendances : RoBERTa peut découvrir les tendances émergentes dans les avis, y compris les préférences alimentaires, les aspects appréciés ou critiqués.
+        \item Analyse de mots clés et d'expressions fréquemment utilisés : RoBERTa peut aider à déterminer les aspects importants en analysant les mots clés et les expressions fréquemment utilisés dans les avis.
+    \end{itemize}
 \end{frame}
 
 \begin{frame}
-    \begin{center}
-        {\Huge\calligra Thanks!}
-    \end{center}
+    \frametitle{Limites de RoBERTa}
+    \begin{itemize}
+        \item Dépendance aux données d'entraînement : RoBERTa dépend fortement des données sur lesquelles il a été formé, ce qui peut affecter sa précision.
+        \item Interprétation des résultats : Les modèles NLP complexes comme RoBERTa peuvent être difficiles à interpréter, rendant délicate l'interprétation des résultats.
+        \item Besoin de ressources informatiques importantes : RoBERTa nécessite des ressources informatiques importantes pour son utilisation.
+        \item Des Textes mal Classés : Malgré la plupart des classifications correctes, il peut y avoir des textes mal classés en raison de nuances linguistiques.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Suggestions et améliorations possibles du projet}
+    \begin{itemize}
+        \item Exploration de sous-catégories alimentaires : Explorer les sentiments dans des sous-catégories spécifiques de produits alimentaires pour obtenir des informations plus détaillées.
+        \item Enrichissement du modèle avec des données spécifiques au domaine : Utiliser des données spécifiques au domaine alimentaire pour enrichir le modèle.
+        \item Intégration de la rétroaction des entreprises : Permettre aux entreprises de répondre aux avis pourrait offrir une perspective plus complète sur la satisfaction du client.
+        \item Analyse de la dynamique temporelle : Investiguer les tendances au fil du temps en analysant les changements mensuels dans les avis.
+        \item Comparaison avec d'autres modèles NLP : Comparer avec d'autres modèles NLP pour évaluer la performance relative.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Implications et conclusions tirées des résultats obtenus}
+    \begin{itemize}
+        \item Tendance positive globale : La distribution des scores suggère une tendance positive globale dans les avis des clients sur les produits alimentaires d'Amazon.
+        \item Importance des avis avec des scores élevés : La majorité des scores sont entre 4 et 5, soulignant l'importance des avis positifs.
+        \item Prévalence des évaluations positives : La fréquence élevée des évaluations positives, en particulier avec un score de 5, peut indiquer une propension des utilisateurs à partager leurs expériences positives.
+    \end{itemize}
 \end{frame}

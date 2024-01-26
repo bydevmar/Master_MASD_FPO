@@ -1,5 +1,5 @@
 \documentclass[10pt,hyperref={colorlinks,citecolor=blue,urlcolor=peking_blue,linkcolor=}]{beamer}
-\usepackage{PekingU}
+\usepackage{bydevmar}
 \usefonttheme{serif}
 \usepackage{lipsum}
 %\usepackage[scheme = plain]{ctex}
@@ -78,16 +78,27 @@
 \input{Frames/Introduction/Introduction}
 
 % -Methodologie
-%\input{Frames/Methodologie/Methodologie}
+\input{Frames/Methodologie/Methodologie}
 
 % - Resultats
-%\input{Frames/Resultats/Resultats}
+\input{Frames/Resultats/Resultats}
 
 % - Discussion
-%\input{Frames/Discussion/Discussion}
+\input{Frames/Discussion/Discussion}
 
 % - Conclusion
-%\input{Frames/Conclusion/Conclusion}
+\input{Frames/Conclusion/Conclusion}
 
+
+\begin{frame}{References}%[allowframebreaks] if too many references
+    \renewcommand*{\bibfont}{\footnotesize}
+    \bibliography{ref}
+    \bibliographystyle{apalike}
+    % \tiny\bibliographystyle{alpha}
+\end{frame}
+
+
+% - References
+\input{Frames/References/references}
 
 \end{document}
