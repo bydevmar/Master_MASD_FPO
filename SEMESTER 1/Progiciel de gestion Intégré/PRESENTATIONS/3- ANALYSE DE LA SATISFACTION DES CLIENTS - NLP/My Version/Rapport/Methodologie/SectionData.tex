@@ -12,7 +12,7 @@ Le lien vers les données est disponible sur Kaggle :  \url{https://www.kaggle.c
 \subsubsection{Les composants d'un avis}
 \begin{figure}[h]
     \centering
-    \includegraphics[scale=0.5]{assets/amazonReviewDetails.png}
+    \includegraphics[scale=0.4]{assets/amazonReviewDetails.png}
     \caption{Les elements d'un avis}
     \label{fig:avis}
 \end{figure}
@@ -42,11 +42,10 @@ Chacun de ces éléments joue un rôle spécifique dans la caractérisation de l
 \subsubsection{Informations générales sur la dataset}
 \begin{figure}[h]
     \centering
-    \includegraphics[scale=1]{assets/datainfo.PNG}
+    \includegraphics[scale=0.5]{assets/datainfo.PNG}
     \caption{Les information sur la DataSet}
     \label{fig:dataframeinfo}
 \end{figure}
-\newpage
 La sortie de la fonction \texttt{data.info()} fournit une vue détaillée de la structure de notre ensemble de données. Notre ensemble de données est représenté sous la forme d'un objet de type \texttt{pandas.core.frame.DataFrame}, avec un index de type \texttt{RangeIndex}, allant de 0 à 568453, indiquant ainsi le nombre total d'entrées (lignes) dans la base de données. Il est composé de 10 colonnes au total.
 
 Les attributs et types de données de chaque colonne sont les suivants :
@@ -69,17 +68,16 @@ La mémoire utilisée par cet ensemble de données est d'environ 43.4 MB. Il est
 \subsubsection{Statistiques descriptives pour les attributs numériques}
 \begin{figure}[h]
     \centering
-    \includegraphics[scale=1]{assets/describe.PNG}
+    \includegraphics[scale=0.8]{assets/describe.PNG}
     \caption{Statistiques descriptives pour l'attribute Score}
     \label{fig:describe}
 \end{figure}
-\newpage
 La sortie de la commande data['Score'].describe() pour la colonne 'Score' révèle que l'ensemble de données compte un total de 568,454 observations. La moyenne des scores est d'environ 4.18, avec un écart type de 1.31, indiquant une certaine variabilité dans les évaluations. Les scores varient de 1 à 5, avec 25\%, 50\%, et 75\% des scores situés à 4, 5, et 5 respectivement. Ces statistiques suggèrent une concentration des scores autour des valeurs élevées, avec une moyenne de 4.18 et une médiane de 5, suggérant une tendance positive dans les évaluations, probablement indicative d'une satisfaction générale des utilisateurs.
-
+ \newpage
 \subsubsection{Vérification des valeurs manquantes ou d'incohérences}
 \begin{figure}[h]
     \centering
-    \includegraphics[scale=1]{assets/isnull.PNG}
+    \includegraphics[scale=0.7]{assets/isnull.PNG}
     \caption{Détection d'Incohérences et de Manques de Données}
     \label{fig:isnull}
 \end{figure}
@@ -92,11 +90,10 @@ La sortie obtenue à partir de la commande \texttt{data.isnull().sum()} présent
 
 Cette information précise quelles colonnes spécifiques contiennent des valeurs manquantes et quantifie ces manques. Cette connaissance est cruciale pour déterminer la meilleure approche de gestion des données manquantes, que ce soit en les supprimant, en les remplaçant par des valeurs par défaut, ou en appliquant d'autres méthodes de gestion en fonction du contexte de l'analyse.
 
-\newpage 
 \subsubsection{Vérifier les valeurs uniques dans chaque colonne}
 \begin{figure}[h]
     \centering
-    \includegraphics[scale=1]{assets/nunique.PNG}
+    \includegraphics[scale=0.7]{assets/nunique.PNG}
     \caption{Verifier les valeurs uniques dans chaque colonne}
     \label{fig:isnull}
 \end{figure}

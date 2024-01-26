@@ -48,7 +48,7 @@
 \fancyheadoffset{0.5cm}
 
 
-\lhead{\includegraphics[scale=0.19]{logos/fpo_logo.png}} %Affichage de l'image au top de la page
+\lhead{\includegraphics[scale=0.15]{logos/fpo_logo.png}} %Affichage de l'image au top de la page
 \rhead{\nouppercase{\leftmark}}
 \rfoot{\thepage}
 \cfoot{\textbf{\titre}}
@@ -68,7 +68,7 @@
 % Logo Univers
 \begin{figure}
         \centering
-        \includegraphics[width=0.6\textwidth]{\logouniv}\par\vspace{0.4cm}
+        \includegraphics[width=0.5\textwidth]{\logouniv}\par\vspace{0.4cm}
 \end{figure}
 
 % Titre du rapport
