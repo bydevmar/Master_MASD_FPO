@@ -66,50 +66,32 @@
 \input{Methodologie/methodologie}
 %------------- FIN Methodologie ----------------
 
-
-%------------- Commandes utiles ----------------
-
-\section{Quelques commandes}
-
-Voici quelques commandes utiles :
+%------------- DEBUT Resultats ----------------
+\input{Resultats/Resultats}
+%------------- FIN Resultats ----------------
 
 
-
-\subsection{Insertion de figures}
-%------ Pour insérer et citer une image centralisée -----
-% Le premier argument est le chemin pour la photo
-% Le deuxième est la hauteur de la photo
-% Le troisième la légende
-% Le quatrième le label
-Ici, je cite l'image \ref{fig:my_label} dans le texte.
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=0.8\textwidth]{logos/react.png}
-    \caption{Mettre une légende explicite à votre figure}
-    \label{fig:my_label}
-\end{figure}
-
-\subsection{Insertion d'équation}
-%------- Pour insérer et citer une équation --------------
-
-\begin{equation} \label{eq: exemple}
-\rho + \Delta = 42
-\end{equation}
-
-L'équation \ref{eq: exemple} est citée ici. 
-
-\subsection{Insertion d'une référence bibliographique}
-Les références (articles scientifiques, articles de journaux, blogs, pages web) doivent être mentionnées dans le texte par une balise \cite{maref} et fait le lien avec la citation incluse dans la bibliographie.
+%------------- Commandes utiles --------------
 
 
-\begin{thebibliography}{15} %nb de références possibles : 15
-\bibitem{maref}
-	  Leslie Lamport,
-	  \emph{\LaTeX: A Document Preparation System}.
-	  Addison Wesley, Massachusetts,
-	  2nd Edition,
-	  1994.
+\begin{thebibliography}{15}
+
+\bibitem{xinyue2022amazon}
+Xinyue Zhao et Yuandong Sun. (2022). "Amazon Fine Food Reviews with BERT Model." Procedia Computer Science, Volume 208, Pages 401-406. DOI: 10.1016/j.procs.2022.10.056. Elsevier B.V. Available online at: \url{https://www.sciencedirect.com/science/article/pii/S1877050922030215}.
+
+\bibitem{huggingface2022roberta}
+Hugging Face. (2022). Documentation Transformers - Modèle RoBERTa. \url{https://huggingface.co/docs/transformers/model_doc/roberta}.
+
+\bibitem{mulla2022sentiment}
+Mulla, R. (2022). Projet d'analyse de sentiment en Python avec NLTK et  Transformers. Classifiez les critiques d'Amazon !! [Vidéo]. YouTube. \url{https://www.youtube.com/watch?v=QpzMWQvxXWk}.
+
+\bibitem{robikscube2022sentiment}
+Robikscube. (2022). Analyse de sentiment en Python  [Didacticiel sur YouTube]. Kaggle. \url{https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/notebook}.
+
+% Ajoutez ici d'autres références au besoin...
+
 \end{thebibliography}
+
 
 
 
