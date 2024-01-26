@@ -69,7 +69,36 @@ La mémoire utilisée par cet ensemble de données est d'environ 43.4 MB. Il est
 \subsubsection{Statistiques descriptives pour les attributs numériques}
 \begin{figure}[h]
     \centering
-    \includegraphics[scale=1]{assets/datainfo.PNG}
-    \caption{Les information sur la DataSet}
-    \label{fig:dataframeinfo}
+    \includegraphics[scale=1]{assets/describe.PNG}
+    \caption{Statistiques descriptives pour l'attribute Score}
+    \label{fig:describe}
 \end{figure}
+\newpage
+La sortie de la commande data['Score'].describe() pour la colonne 'Score' révèle que l'ensemble de données compte un total de 568,454 observations. La moyenne des scores est d'environ 4.18, avec un écart type de 1.31, indiquant une certaine variabilité dans les évaluations. Les scores varient de 1 à 5, avec 25\%, 50\%, et 75\% des scores situés à 4, 5, et 5 respectivement. Ces statistiques suggèrent une concentration des scores autour des valeurs élevées, avec une moyenne de 4.18 et une médiane de 5, suggérant une tendance positive dans les évaluations, probablement indicative d'une satisfaction générale des utilisateurs.
+
+\subsubsection{Vérification des valeurs manquantes ou d'incohérences}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=1]{assets/isnull.PNG}
+    \caption{Détection d'Incohérences et de Manques de Données}
+    \label{fig:isnull}
+\end{figure}
+La sortie obtenue à partir de la commande \texttt{data.isnull().sum()} présente le nombre de valeurs manquantes pour chaque colonne de l'ensemble de données. Un résumé de ces résultats est le suivant :
+
+\begin{itemize}
+    \item Pour les colonnes 'Id', 'ProductId', 'UserId', 'HelpfulnessNumerator', 'HelpfulnessDenominator', 'Score', et 'Time', aucune valeur manquante n'est à signaler.
+    \item Cependant, la colonne 'ProfileName' présente 26 valeurs manquantes, tandis que la colonne 'Summary' en compte 27.
+\end{itemize}
+
+Cette information précise quelles colonnes spécifiques contiennent des valeurs manquantes et quantifie ces manques. Cette connaissance est cruciale pour déterminer la meilleure approche de gestion des données manquantes, que ce soit en les supprimant, en les remplaçant par des valeurs par défaut, ou en appliquant d'autres méthodes de gestion en fonction du contexte de l'analyse.
+
+\newpage 
+\subsubsection{Vérifier les valeurs uniques dans chaque colonne}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=1]{assets/nunique.PNG}
+    \caption{Verifier les valeurs uniques dans chaque colonne}
+    \label{fig:isnull}
+\end{figure}
+La commande \texttt{data.nunique()} révèle la diversité des valeurs dans chaque colonne de l'ensemble de données. Les résultats montrent des variations significatives, allant de 5 valeurs uniques dans la colonne 'Score', indiquant une échelle de notation restreinte, à 393579 valeurs uniques dans la colonne 'Text', soulignant la grande variété de textes présents. Ces statistiques offrent un aperçu de la distribution des valeurs et de la portée de la diversité dans chaque attribut.
+

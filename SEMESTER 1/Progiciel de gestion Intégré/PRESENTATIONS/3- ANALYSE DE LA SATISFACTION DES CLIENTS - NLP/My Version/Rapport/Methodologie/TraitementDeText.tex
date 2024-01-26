@@ -1,0 +1,20 @@
+% methodologie/traitement de text.tex
+
+\subsection{Traitement du texte}
+Dans cette etape nous allos traiter un échantillon de 100 000 lignes dans l'ensemble de données. Voici une explication des principales étapes effectuées :
+
+\begin{enumerate}
+    \item \textbf{Suppression des URL :} Le texte est inspecté pour déterminer s'il ressemble à une URL. En cas d'URL, il est possible d'utiliser une bibliothèque comme requests pour récupérer le contenu de l'URL. Cependant, cette partie du code est actuellement commentée.
+    
+    \item \textbf{Suppression des balises HTML :} Si le texte n'est pas une URL, les balises HTML sont éliminées à l'aide de BeautifulSoup, assurant que le texte est dépourvu de toute balise HTML.
+    
+    \item \textbf{Suppression des caractères non alphabétiques :} Tous les caractères qui ne sont pas des lettres alphabétiques sont retirés du texte, ne conservant que les mots alphabétiques.
+    
+    \item \textbf{Conversion en minuscules :} Le texte est converti en minuscules pour assurer une cohérence dans le traitement ultérieur.
+    
+    \item \textbf{Suppression des stopwords :} Les stopwords (mots courants tels que "the", "and", "is", etc.) sont retirés du texte pour se concentrer sur les termes significatifs.
+    
+    \item \textbf{Application du traitement au texte :} Ces étapes de prétraitement sont ensuite appliquées à la colonne 'Text' de l'ensemble de données, et les résultats sont stockés dans une nouvelle colonne appelée 'Processed\_Text'.
+\end{enumerate}
+
+L'utilisation de tqdm facilite le suivi de la progression du traitement. Cette approche de prétraitement du texte est couramment utilisée pour nettoyer et préparer les données textuelles avant l'analyse ou la modélisation.
