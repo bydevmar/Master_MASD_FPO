@@ -16,6 +16,8 @@
 \usepackage{ragged2e}
 \usepackage{parskip}
 
+\usepackage{caption}
+
 \apptocmd{\frame}{}{\justifying}{} % Allow optional arguments after frame.
 
 \newcommand{\theHalgorithm}{\arabic{algorithm}}
@@ -88,14 +90,6 @@
 
 % - Conclusion
 \input{Frames/Conclusion/Conclusion}
-
-
-\begin{frame}{References}%[allowframebreaks] if too many references
-    \renewcommand*{\bibfont}{\footnotesize}
-    \bibliography{ref}
-    \bibliographystyle{apalike}
-    % \tiny\bibliographystyle{alpha}
-\end{frame}
 
 
 % - References
