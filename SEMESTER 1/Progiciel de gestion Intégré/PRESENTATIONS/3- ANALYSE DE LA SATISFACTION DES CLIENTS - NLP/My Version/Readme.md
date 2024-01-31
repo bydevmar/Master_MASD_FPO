@@ -1,75 +1,75 @@
-# Analyse des Sentiments avec NLP - Projet README
+# Projet d'Analyse des Sentiments avec NLP
 
-**Auteur**: BOUHLALI Abdelfattah  
-**Master**: Mathématiques Appliquées pour la Science des Données  
-**Année universitaire**: 2023 - 2024  
-**Encadrement**: GAOU Salma, HAMIDI Charaf
+**Auteur:** BOUHLALI Abdelfattah  
+**Master:** Mathématiques Appliquées pour la Science des Données  
+**Année universitaire:** 2023 - 2024  
+**Encadrement:** GAOU Salma, HAMIDI Charaf
 
----
+## Aperçu
 
-## Résumé
+Ce projet se concentre sur l'analyse des sentiments à l'aide du Traitement du Langage Naturel (NLP) pour explorer les opinions des consommateurs sur Amazon, avec un accent particulier sur les produits alimentaires. L'objectif est de comprendre les sentiments des clients exprimés dans les avis et de transformer ces informations en insights précieux pour les entreprises afin d'améliorer leurs produits et de satisfaire leurs clients.
 
-Ce projet utilise le traitement du langage naturel (NLP) pour analyser les avis des consommateurs sur les produits alimentaires d'Amazon. L'objectif principal est de comprendre les sentiments exprimés dans ces avis et d'identifier des tendances significatives.
+## Table des matières
 
----
+- [Introduction](#introduction)
+- [Méthodologie](#méthodologie)
+- [Résultats](#résultats)
+- [Discussion](#discussion)
+- [Conclusion](#conclusion)
+- [Références](#références)
 
-## Objectifs du Projet
+## Introduction
 
-1. **Analyse des Avis Amazon**:
-   - Exploration des avis sur les produits alimentaires.
-   - Extraction des composants tels que le score, le titre, le texte libre, et les informations sur l'auteur.
-
-2. **Prétraitement des Données**:
-   - Application de techniques de prétraitement, y compris la suppression des caractères spéciaux, la lemmatisation, etc.
-
-3. **Analyse des Sentiments avec RoBERTa**:
-   - Utilisation du modèle pré-entraîné RoBERTa pour prédire les sentiments dans les avis.
-   - Évaluation de la distribution des sentiments prédits.
-
----
+Notre projet vise à analyser les sentiments des consommateurs sur Amazon, en mettant l'accent sur les produits alimentaires. Le défi réside dans la compréhension d'un grand nombre d'avis et l'extraction d'informations essentielles. Nous exploitons le Traitement du Langage Naturel pour plonger dans les sentiments des clients, dans le but de fournir des informations précieuses aux entreprises pour améliorer leurs produits et accroître la satisfaction de la clientèle.
 
 ## Méthodologie
 
-### Données
+### Collecte de données
+- Nous avons collecté des avis sur Amazon pour les produits alimentaires afin de former notre ensemble de données.
 
-- **Source des Données**: Avis sur les produits alimentaires d'Amazon.
-- **Statistiques des Données**: X avis, Y caractéristiques.
+### Analyse exploratoire des données
+- Utilisation de l'analyse statistique et de visualisations pour comprendre la distribution des scores et des sentiments.
 
-### Prétraitement
-
-- Étapes de nettoyage et de préparation des données pour l'analyse.
-
-### Analyse
-
-- Exploration des données et présentation des résultats d'analyse des sentiments.
-
----
+### Analyse des sentiments avec RoBERTa
+- Utilisation du modèle RoBERTa pour une analyse fine des sentiments.
+- Prétraitement des données textuelles, suppression des URL, des balises HTML, des caractères non alphabétiques et des stopwords.
+- Examen des relations entre les sentiments prédits et les scores des utilisateurs.
 
 ## Résultats
 
-1. **Répartition des Sentiments**:
-   - Visualisation de la répartition des sentiments dans les avis.
-
-2. **Distribution des Probabilités**:
-   - Analyse des probabilités prédites par RoBERTa.
-   - Relations avec les scores attribués par les utilisateurs.
-
----
+- Distribution des sentiments prédits (positif, neutre, négatif).
+- Relations entre les probabilités prédites et les scores des utilisateurs.
+- Nuages de mots pour les avis positifs et négatifs.
 
 ## Discussion
 
-1. **Forces de RoBERTa**:
-   - Mise en évidence des points forts du modèle.
+### Évaluation du modèle RoBERTa
+- **Points forts :**
+  - Compréhension fine des sentiments.
+  - Capacité à identifier les tendances émergentes.
+  - Analyse des mots-clés et des expressions fréquemment utilisées.
 
-2. **Limites et Améliorations Possibles**:
-   - Identification des limitations du modèle et suggestions pour des améliorations futures.
+- **Limitations :**
+  - Dépendance aux données d'entraînement.
+  - Défis d'interprétation pour les modèles complexes de NLP.
+  - Besoins élevés en ressources informatiques.
 
-3. **Implications et Conclusions**:
-   - Réflexions sur les implications des résultats et conclusions générales.
-
----
+### Suggestions d'amélioration
+- Explorer les sous-catégories des produits alimentaires.
+- Enrichir le modèle avec des données spécifiques au domaine.
+- Intégrer les retours d'entreprises pour une vision plus complète.
+- Comparer avec d'autres modèles de NLP pour l'évaluation des performances.
 
 ## Conclusion
 
-- Récapitulation des principaux résultats obtenus.
-- Contributions du projet à la compréhension des avis consommateurs.
+En conclusion, ce projet offre des informations précieuses sur les sentiments des clients concernant les produits alimentaires d'Amazon. La tendance positive prédominante suggère une satisfaction client élevée, fournissant aux entreprises des informations exploitables pour améliorer leurs produits et répondre aux attentes du marché.
+
+## Références
+
+- [Ensemble de données](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
+- Zhao, X., & Sun, Y. (2022). [Avis sur les Produits Alimentaires d'Amazon avec le Modèle BERT](https://www.sciencedirect.com/science/article/pii/S1877050922014971).
+- [Hugging Face - Documentation du Modèle RoBERTa](https://huggingface.co/docs/transformers/model_doc/roberta)
+- Mulla, R. (2022). [Analyse de Sentiment en Python avec NLTK et Transformers](https://www.youtube.com/watch?v=QpzMWQvxXWk).
+- Robikscube. (2022). [Analyse de Sentiment en Python Tutorial sur Kaggle](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/notebook).
+
+---
