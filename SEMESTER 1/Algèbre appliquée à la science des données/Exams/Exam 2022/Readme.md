@@ -209,3 +209,59 @@ Il est possible de démontrer que $\mathcal{F}$ est liée en exprimant l'un de s
 ## Correction de l'Exercice 4 
 
 ![alt text](correction_exo_4.PNG)
+
+
+
+## Correction de l'Exercice 5 
+D'accord, je vais compléter les calculs pour vous.
+
+Comme nous l'avons déjà déterminé, le déterminant de $A$ est $-2$. 
+
+Maintenant, calculons la matrice des cofacteurs de $A$ :
+
+$$
+\text{cof}(A) = \begin{pmatrix} \text{det}\left(\begin{pmatrix} 1 & 1 \\ 1 & 0 \end{pmatrix}\right) & -\text{det}\left(\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\right) & \text{det}\left(\begin{pmatrix} 0 & 1 \\ 1 & 1 \end{pmatrix}\right) \\ -\text{det}\left(\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\right) & \text{det}\left(\begin{pmatrix} 1 & 1 \\ 1 & 0 \end{pmatrix}\right) & -\text{det}\left(\begin{pmatrix} 1 & 1 \\ 1 & 0 \end{pmatrix}\right) \\ \text{det}\left(\begin{pmatrix} 0 & 1 \\ 1 & 1 \end{pmatrix}\right) & -\text{det}\left(\begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}\right) & \text{det}\left(\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}\right) \end{pmatrix}
+$$
+
+Ce qui donne :
+
+$$
+\text{cof}(A) = \begin{pmatrix} -1 & 1 & -1 \\ 1 & -1 & -1 \\ -1 & -1 & 1 \end{pmatrix}
+$$
+
+Ensuite, nous calculons la transposée de la matrice des cofacteurs pour obtenir la matrice adjointe :
+
+$$
+\text{adj}(A) = \text{cof}(A)^T = \begin{pmatrix} 
+-1 & 1 & -1 \\ 
+1 & -1 & -1 \\ 
+-1 & -1 & 1 
+\end{pmatrix}
+$$
+
+Finalement, nous multiplions la matrice adjointe par l'inverse du déterminant pour obtenir l'inverse de $A$ :
+
+$$
+A^{-1} = 
+\frac{1}{\text{det}(A)} 
+\cdot 
+\text{adj}(A) = 
+\frac{-1}{2} \cdot 
+\begin{pmatrix} 
+-1 & 1 & -1 \\ 
+1 & -1 & -1 \\ 
+-1 & -1 & 1 
+\end{pmatrix} = 
+\begin{pmatrix} 
+\frac{1}{2} & \frac{-1}{2} & \frac{1}{2} \\
+\frac{-1}{2} & \frac{1}{2} & \frac{1}{2} \\
+\frac{1}{2} & \frac{1}{2} & \frac{-1}{2} \\
+\end{pmatrix}
+$$
+
+Donc, l'inverse de la matrice $A$ est 
+$\begin{pmatrix} 
+\frac{1}{2} & \frac{-1}{2} & \frac{1}{2} \\
+\frac{-1}{2} & \frac{1}{2} & \frac{1}{2} \\
+\frac{1}{2} & \frac{1}{2} & \frac{-1}{2} \\ 
+\end{pmatrix}$.
