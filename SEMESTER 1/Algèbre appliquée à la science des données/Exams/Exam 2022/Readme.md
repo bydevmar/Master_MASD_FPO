@@ -206,5 +206,6 @@ Il est possible de démontrer que $\mathcal{F}$ est liée en exprimant l'un de s
 
 4. On a ker(f) $\oplus$ Im(f) = $\mathbb{R}^3$ si et seulement si dim(ker(f)) + dim(Im(f)) = dim($\mathbb{R}^3$). Or, on a dim(ker(f)) = 1 et dim(Im(f)) = 2, donc dim(ker(f)) + dim(Im(f)) = 3 = dim($\mathbb{R}^3$). Donc, ker(f) $\oplus$ Im(f) = $\mathbb{R}^3$.
 
+## Correction de l'Exercice 4 
 
-
+![alt text](correction_exo_4.PNG)
