@@ -19,9 +19,9 @@
 
 
 # Correction 
-Bonjour, je suis Copilot, un assistant virtuel qui peut vous aider avec vos exercices de probabilités. Voici les réponses que j'ai générées pour vous :
 
-# Exercices de probabilités
+
+## Exercices de probabilités
 
 **Exercice 1.** Soit $f$ définie par $f(x)=(a^{2}-x^{2})\mathbb{I}_{|{-a},a|}(x).$
 
