@@ -139,46 +139,36 @@ $$= 0$$
 
 ## Correction de l'Exercice 2 :
 
-**1. Famille libre $\mathcal{B}$:**
+Pour montrer que B = {e1, e2} est une famille libre dans R^2, nous devons montrer que l'équation linéaire
 
-Pour démontrer que $\mathcal{B}$ = ($e_1$, $e_2$) est une famille libre, il suffit de vérifier que ses vecteurs sont non colinéaires.
+λ1 e1 + λ2 e2 = 0 \
 
-On calcule le déterminant :
+a seulement la solution triviale λ1 = λ2 = 0. Cela revient à démontrer que si λ1 e1 + λ2 e2 = 0, alors λ1 = λ2 = 0.
 
-```
-det = |1 0| |0 1| = 1 - 0 = 1
-```
+Considérons l'équation λ1 e1 + λ2 e2 = 0. Cela conduit au système d'équations suivant :
 
-Le déterminant est non nul, ce qui implique que les vecteurs $e_1$ et $e_2$ sont non colinéaires.
+λ1 = 0 \
+λ2 = 0
 
-**Par conséquent, $\mathcal{B}$ est une famille libre.**
+La seule solution de ce système est λ1 = λ2 = 0, démontrant ainsi que B est une famille libre.
 
-**2. Famille liée $\mathcal{F}$:**
+Maintenant, pour montrer que F = {e3, e4, e5} est une famille liée, nous devons démontrer qu'il existe des scalaires λ1, λ2, λ3, au moins l'un d'entre eux non nul, tels que l'équation linéaire
 
-Pour démontrer que $\mathcal{F}$ = ($e_3$, $e_4$, $e_5$) est une famille liée, on peut utiliser le théorème du rang.
+λ1 e3 + λ2 e4 + λ3 e5 = 0
 
-Le rang de $\mathcal{F}$ est au plus égal à 2 car elle contient 2 vecteurs.
+a une solution non triviale.
 
-On calcule le déterminant :
+Considérons l'équation λ1 e3 + λ2 e4 + λ3 e5 = 0. Cela conduit au système d'équations suivant :
 
-```
-det = |1 3 5| |2 4 6| = 2 - 6 + 10 = 6
-```
+λ1 + 3λ2 + 5λ3 = 0 \
+2λ1 + 4λ2 + 6λ3 = 0
 
-Le déterminant est non nul, ce qui implique que le rang de $\mathcal{F}$ est égal à 2.
+La deuxième équation est simplement le double de la première, fournissant ainsi une information redondante. On peut donc choisir librement λ1 (sauf λ1 = 0) et exprimer λ2 et λ3 en fonction de λ1 :
 
-**Cependant, $\mathcal{F}$ contient 3 vecteurs.**
+λ1 + 3λ2 + 5λ3 = 0 \
+2λ1 + 4λ2 + 6λ3 = 0
 
-**Par conséquent, $\mathcal{F}$ est une famille liée.**
-
-**Conclusion:**
-
-* $\mathcal{B}$ est une famille libre car ses vecteurs sont non colinéaires.
-* $\mathcal{F}$ est une famille liée car elle contient plus de vecteurs que son rang.
-
-**Remarque:**
-
-Il est possible de démontrer que $\mathcal{F}$ est liée en exprimant l'un de ses vecteurs comme combinaison linéaire des deux autres. Par exemple, on peut écrire $e_3 = 2e_1 + e_2$.
+En choisissant λ1 = 1, la première équation devient 1 + 3λ2 + 5λ3 = 0. On peut choisir, par exemple, λ2 = -2 et λ3 = 1. Ainsi, on a une solution non triviale avec λ1 = 1, λ2 = -2, et λ3 = 1, montrant que F est une famille liée.
 
 ## Correction de l'Exercice 3 
 
