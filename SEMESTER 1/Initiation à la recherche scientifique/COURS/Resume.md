@@ -37,6 +37,9 @@
   - [4.0.5 L’Article Scientifique](#405-larticle-scientifique)
     - [Types d'Articles Scientifiques:](#types-darticles-scientifiques)
     - [Points Clés:](#points-clés)
+  - [4.0.6 La Note Scientifique](#406-la-note-scientifique)
+    - [Justifications pour Rédiger une Note de Recherche:](#justifications-pour-rédiger-une-note-de-recherche)
+    - [Caractéristiques de la Note de Recherche:](#caractéristiques-de-la-note-de-recherche)
 
 
 # Introduction 
@@ -300,3 +303,29 @@ La rédaction d'un article scientifique présente des défis particuliers, avec 
 
 
 
+## 4.0.6 La Note Scientifique
+
+La note de recherche constitue un cas particulier de l'article de recherche, justifiée dans divers contextes. Ce format peut être choisi en raison d'un manque de résultats pour rédiger un article complet, ou lorsque la méthode utilisée n'est pas nouvelle, mais apporte une contribution significative à une variété ou une région spécifique.
+
+### Justifications pour Rédiger une Note de Recherche:
+
+1. **Manque de Résultats:**
+   - Lorsqu'il y a insuffisamment de résultats pour un article complet.
+
+2. **Innovation Locale:**
+   - Quand la méthode n'est pas nouvelle, mais offre une valeur ajoutée à une variété ou une région spécifique.
+
+3. **Préliminaire à un Article Complet:**
+   - Environnement compétitif : La note de recherche peut servir de préliminaire à un article de recherche plus complet.
+
+### Caractéristiques de la Note de Recherche:
+
+- **Brevet Courte:**
+  - Ne dépasse généralement pas deux à trois pages, y compris illustrations et bibliographie.
+  - Environ 1000 mots au maximum.
+
+- **Structure IMRaD Simplifiée:**
+  - Suivant le modèle IMRaD (Introduction, Méthode, Résultats, et Discussion).
+  - Inclut deux à trois illustrations maximum (tableaux ou figures).
+
+La note de recherche offre une alternative concise tout en maintenant la rigueur scientifique, adaptée aux situations où une communication succincte est préférable. Son format compact la rend idéale pour partager des découvertes préliminaires dans des contextes compétitifs.
