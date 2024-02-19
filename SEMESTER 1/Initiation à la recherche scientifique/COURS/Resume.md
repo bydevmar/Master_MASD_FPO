@@ -2,53 +2,28 @@
 #   Cours d'Initiation à la Recherche Scientifique
 ## Plan
 
-1. [Introduction](#introduction)
-2. [Éléments introductifs](#elements-introductifs)
-   1. [La définition de la recherche scientifique](#la-definition-de-la-recherche-scientifique)
-   2. [Les fonctions de la recherche scientifique](#les-fonctions-de-la-recherche-scientifique)
-   3. [Les différents niveaux de la recherche scientifique](#les-differents-niveaux-de-la-recherche-scientifique)
-   4. [Les principales types de la recherche scientifique](#les-principales-types-de-la-recherche-scientifique)
-   5. [Les modes d'investigation de la recherche](#les-modes-dinvestigation-de-la-recherche)
-   6. [Les étapes de la recherche scientifique](#les-etapes-de-la-recherche-scientifique)
-3. [La stratégie du Maroc à l'horizon 2025](#la-strategie-du-maroc-a-lhorizon-2025)
-4. [La littérature scientifiques et ses composantes](#la-litterature-scientifiques-et-ses-composantes)
-   1. [La revue scientifique](#la-revue-scientifique)
-   2. [Le livre](#le-livre)
-   3. [Le rapport de thèse](#le-rapport-de-these)
-   4. [Le brevet](#le-brevet)
-   5. [L'article scientifique](#larticle-scientifique)
-   6. [La note scientifique](#la-note-scientifique)
-   7. [La structure d'article scientifique](#la-structure-darticle-scientifique)
-5. [Les éléments de l'édition scientifique](#les-elements-de-ledition-scientifique)
-   1. [La gestion d'un journal scientifique](#la-gestion-dun-journal-scientifique)
-   2. [Les éditeurs scientifiques](#les-editeurs-scientifiques)
-      1. [L'examen et la vérification par les pairs](#lexamen-et-la-verification-par-les-pairs)
-   3. [Comment choisir une revue ?](#comment-choisir-une-revue)
-   4. [Le processus de la soumission d'article scientifique](#le-processus-de-la-soumission-darticle-scientifique)
-      1. [Le choix de l'éditeur](#le-choix-de-lediteur)
-      2. [La validation d'un article scientifique](#la-validation-dun-article-scientifique)
-   5. [La diffusion d'articles scientifique](#la-diffusion-darticles-scientifique)
-   6. [Nouveau modèle économique : Open access model, hybrid model](#nouveau-modele-economique-open-access-model-hybrid-model)
-      1. [La voie d'or](#la-voie-dor)
-      2. [La voie verte](#la-voie-verte)
-      3. [Les éditeurs hybrides](#les-editeurs-hybrides)
-      4. [Les éditeurs prédateurs](#les-editeurs-predateurs)
-   7. [L'indexation des revues scientifiques et le facteur d'impact](#lindexation-des-revues-scientifiques-et-le-facteur-dimpact)
-      1. [Le facteur d'impact d'une revue scientifique](#le-facteur-dimpact-dune-revue-scientifique)
-      2. [Les alternatives au facteur d'impact](#les-alternatives-au-facteur-dimpact)
-      3. [L'indexation des revues scientifiques](#lindexation-des-revues-scientifiques)
-      4. [Les quartiles](#les-quartiles)
-6. [Les activités scientifiques](#les-activites-scientifiques)
-   1. [Les événements scientifiques](#les-evenements-scientifiques)
-   2. [Le poster scientifique](#le-poster-scientifique)
-      1. [Communication scientifique](#communication-scientifique)
-7. [Règlements et structures de recherche](#reglements-et-structures-de-recherche)
-   1. [La Structure de recherche universitaire](#la-structure-de-recherche-universitaire)
-      1. [L'affiliation](#laffiliation)
-      2. [Fonctionnement des structures de recherche universitaires](#fonctionnement-des-structures-de-recherche-universitaires)
-      3. [La charte des thèses](#la-charte-des-theses)
-   2. [La relation Encadrant-Doctorant](#la-relation-encadrant-doctorant)
-8. [Bibliographie](#bibliographie)
+- [Cours d'Initiation à la Recherche Scientifique](#cours-dinitiation-à-la-recherche-scientifique)
+  - [Plan](#plan)
+- [Introduction](#introduction)
+- [2. Éléments introductifs](#2-éléments-introductifs)
+  - [2.1. La définition de la recherche scientifique](#21-la-définition-de-la-recherche-scientifique)
+  - [2.0.2 Les fonctions de la recherche scientifique](#202-les-fonctions-de-la-recherche-scientifique)
+  - [Les Caractéristiques des connaissances scientifiques](#les-caractéristiques-des-connaissances-scientifiques)
+  - [Les caractéristiques de l'esprit scientifique](#les-caractéristiques-de-lesprit-scientifique)
+  - [2.0.3 Les différents niveaux de la recherche scientifique dans le domaine de l'informatique](#203-les-différents-niveaux-de-la-recherche-scientifique-dans-le-domaine-de-linformatique)
+    - [La Description](#la-description)
+    - [La Classification](#la-classification)
+  - [L'Explication-Compréhension](#lexplication-compréhension)
+  - [2.0.4 Les principaux types de recherche scientifique](#204-les-principaux-types-de-recherche-scientifique)
+    - [1. Recherche Fondamentale](#1-recherche-fondamentale)
+    - [2. Recherche Empirique](#2-recherche-empirique)
+    - [3. Recherche Exploratoire](#3-recherche-exploratoire)
+    - [4. Recherche Descriptive](#4-recherche-descriptive)
+    - [5. Recherche Appliquée](#5-recherche-appliquée)
+  - [2.0.5 Les modes d’investigation de la recherche](#205-les-modes-dinvestigation-de-la-recherche)
+    - [1. Approche Quantitative](#1-approche-quantitative)
+    - [2. Approche Qualitative](#2-approche-qualitative)
+    - [3. Approche Mixte](#3-approche-mixte)
 
 
 # Introduction 
@@ -161,3 +136,20 @@ La recherche descriptive vise à décrire les caractéristiques d'un individu ou
 ### 5. Recherche Appliquée
 
 La recherche appliquée s'oriente vers la résolution immédiate de problèmes concrets. Elle a une fonction utilitaire, visant à proposer des solutions ou des recommandations. Cette recherche prépare des actions cohérentes avec les problèmes définis ou les mandats spécifiques.
+
+
+## 2.0.5 Les modes d’investigation de la recherche
+
+Les modes d'investigations en recherche sont déterminés par les paradigmes et les objectifs du chercheur. Trois modes d'investigation sont disponibles : l'approche quantitative, l'approche qualitative et l'approche mixte.
+
+### 1. Approche Quantitative
+
+Cette approche se concentre sur la collecte de données observables et quantifiables. Elle vise à décrire, expliquer, contrôler et prédire en se basant sur l'observation de faits objectifs existant indépendamment du chercheur. Elle utilise des instruments et des techniques quantitatives assurant la fidélité et la validité des données. Les résultats sont chiffrés, permettant des analyses statistiques et des recherches de liens entre les variables.
+
+### 2. Approche Qualitative
+
+L'approche qualitative commence par une situation concrète comportant un phénomène à comprendre, plutôt qu'à démontrer ou prouver. Le chercheur cherche à donner un sens au phénomène en le comprenant à travers l'observation, la description, l'interprétation, et l'appréciation du contexte. Des techniques qualitatives telles que les études de cas, les observations, et les entretiens sont utilisées pour obtenir des données de contenu, non chiffrées.
+
+### 3. Approche Mixte
+
+L'approche mixte combine les approches quantitative et qualitative. Elle offre au chercheur la possibilité de tirer parti des avantages des deux modes. Cette approche aide à maîtriser le phénomène dans toutes ses dimensions. Les deux approches ne s'opposent pas mais se complètent. L'approche qualitative permet de recueillir des informations approfondies, tandis que l'approche quantitative permet des analyses statistiques. Cette combinaison est particulièrement utile dans la phase exploratoire d'un nouveau sujet de recherche, contribuant au développement de théories par un processus inductif.
