@@ -33,6 +33,10 @@
   - [4.0.1 La Revue Scientifique](#401-la-revue-scientifique)
   - [4.0.2 Le Livre](#402-le-livre)
   - [4.0.3 Le Rapport de Thèse](#403-le-rapport-de-thèse)
+  - [4.0.4 Le Brevet](#404-le-brevet)
+  - [4.0.5 L’Article Scientifique](#405-larticle-scientifique)
+    - [Types d'Articles Scientifiques:](#types-darticles-scientifiques)
+    - [Points Clés:](#points-clés)
 
 
 # Introduction 
@@ -241,6 +245,58 @@ Quant à la thèse de doctorat, elle peut être structurée de deux manières pr
 La rédaction suivante découle logiquement de l'introduction, comprenant la formulation des hypothèses testées, la méthodologie utilisée pour les tester, la présentation des résultats, et enfin, une discussion approfondie aboutissant à la thèse que le chercheur souhaite défendre. La thèse représente l'aboutissement du processus de formation du chercheur, démontrant sa capacité à mener un travail de recherche de manière autonome.
 
 Il est important de noter que les rapports et les thèses sont des documents non publiés, relevant souvent de la "littérature grise". Cependant, ils sont de plus en plus visibles, accessibles en ligne et fréquemment déposés en libre accès dans des dépôts institutionnels.
+
+
+## 4.0.4 Le Brevet
+
+Un brevet confère un droit exclusif et limité dans le temps pour exploiter une invention. Ce droit exclusif est accordé en échange de la divulgation de l'invention. L'objectif principal des brevets est de stimuler les développements techniques et industriels en octroyant des droits aux inventeurs qui partagent leurs découvertes avec la communauté scientifique.
+
+Le détenteur d'un brevet a le droit, pour une période déterminée, d'interdire à d'autres personnes d'utiliser ou de copier son invention. Pour qu'une invention soit éligible à un brevet, elle doit être originale, applicable industriellement, et bien sûr, légale. Ces critères sont évalués par l'organisme délivrant les brevets. Les brevets s'appliquent à un produit, un résultat ou un procédé spécifique sur un territoire donné.
+
+
+
+
+
+## 4.0.5 L’Article Scientifique
+
+L'article scientifique constitue le moyen privilégié pour communiquer les résultats d'une recherche et les confronter aux travaux existants. Rédigé par des chercheurs pour leurs pairs, il suit une structure normalisée et est publié par une revue scientifique selon des règles spécifiques.
+
+La rédaction d'un article scientifique présente des défis particuliers, avec un style d'écriture concis et direct, différent de l'écriture utilitaire ou créative. Bien que complexe, cette pratique est essentielle pour partager des résultats originaux, contribuant au développement des connaissances et à l'évolution des débats.
+
+### Types d'Articles Scientifiques:
+
+1. **Article de Recherche:**
+   - Présente des résultats originaux, a priori ou a posteriori.
+   - Soumis à un comité de lecture pour validation.
+   - Structure : Introduction, Méthodologie, Résultats, Discussion.
+   - Objectif : Transmettre l'information détaillée de l'étude à la communauté scientifique.
+
+2. **Article de Synthèse:**
+   - Présente un état de l'art sur un sujet spécifique.
+   - Plus long qu'un article de recherche, analyse sans expérimentation.
+   - Structure adaptée au sujet, généralement : Introduction, Littérature, Conclusions.
+   - Exige une recherche documentaire approfondie et une analyse critique.
+
+### Points Clés:
+
+- **Résumé de Qualité:**
+  - La capacité à présenter un argumentaire clair est cruciale.
+  - Compétence utile pour les étudiants et jeunes chercheurs.
+
+- **Diversité des Articles:**
+  - Outre les articles de recherche, la littérature scientifique inclut des recensions, des notes de lecture, etc.
+
+- **Références Bibliographiques:**
+  - Les articles nécessitent une bibliographie étayée, critiquée avec soin.
+  - Les citations sont courtes et de première main, évitant les infractions au droit d'auteur.
+
+- **Article de Synthèse:**
+  - Basé sur une recherche documentaire approfondie.
+  - Analyse critique des sources, avec une identifiabilité claire de l'apport de l'auteur.
+
+- **Appellations Courantes:**
+  - En français : État de l'art, Recension des écrits, Revue de littérature.
+  - En anglais : State of the art, Literature review, Review, Synthesis, Critical survey, Comprehensive survey.
 
 
 
