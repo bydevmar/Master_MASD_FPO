@@ -24,6 +24,15 @@
     - [1. Approche Quantitative](#1-approche-quantitative)
     - [2. Approche Qualitative](#2-approche-qualitative)
     - [3. Approche Mixte](#3-approche-mixte)
+  - [2.0.6 Les étapes de la recherche scientifique](#206-les-étapes-de-la-recherche-scientifique)
+    - [1. Étape de Sélection du Sujet](#1-étape-de-sélection-du-sujet)
+    - [2. Étape de Définition de la Question de Recherche](#2-étape-de-définition-de-la-question-de-recherche)
+    - [3. Étape de Sélection de la Méthode de Recherche](#3-étape-de-sélection-de-la-méthode-de-recherche)
+    - [4. Étape d'Analyse des Informations](#4-étape-danalyse-des-informations)
+  - [3. La Stratégie du Maroc à l'Horizon 2025](#3-la-stratégie-du-maroc-à-lhorizon-2025)
+  - [4.0.1 La Revue Scientifique](#401-la-revue-scientifique)
+  - [4.0.2 Le Livre](#402-le-livre)
+  - [4.0.3 Le Rapport de Thèse](#403-le-rapport-de-thèse)
 
 
 # Introduction 
@@ -153,3 +162,85 @@ L'approche qualitative commence par une situation concrète comportant un phéno
 ### 3. Approche Mixte
 
 L'approche mixte combine les approches quantitative et qualitative. Elle offre au chercheur la possibilité de tirer parti des avantages des deux modes. Cette approche aide à maîtriser le phénomène dans toutes ses dimensions. Les deux approches ne s'opposent pas mais se complètent. L'approche qualitative permet de recueillir des informations approfondies, tandis que l'approche quantitative permet des analyses statistiques. Cette combinaison est particulièrement utile dans la phase exploratoire d'un nouveau sujet de recherche, contribuant au développement de théories par un processus inductif.
+
+
+## 2.0.6 Les étapes de la recherche scientifique
+
+La recherche scientifique comprend cinq étapes essentielles :
+
+### 1. Étape de Sélection du Sujet
+
+La recherche débute par la sélection d'un sujet. Ce choix peut découler d'un intérêt personnel, d'une évolution de la société, ou d'autres critères tels que les centres d'intérêt de l'auteur, les lectures antérieures, et les objectifs professionnels. Cette étape est fondamentale et nécessite une évaluation de la disponibilité de la littérature existante et de la pertinence des méthodes de recherche.
+
+### 2. Étape de Définition de la Question de Recherche
+
+Après la sélection du sujet, la question de recherche doit être clairement définie. Cela implique souvent une réflexion approfondie sur les objectifs de la recherche, les centres d'intérêt, et la disponibilité de la littérature existante. La question de recherche guide l'ensemble du processus.
+
+### 3. Étape de Sélection de la Méthode de Recherche
+
+Cette étape implique le choix entre une méthodologie qualitative ou quantitative, en fonction de la question de recherche. Elle inclut également la structuration des thèmes principaux et sous-thèmes, avec l'établissement de critères clairs. Une structure pour la recherche est élaborée, comprenant des titres principaux, des sous-titres, des parties, des sections, des chapitres, etc.
+
+### 4. Étape d'Analyse des Informations
+
+À la fin de la recherche, le chercheur est confronté à une multitude d'informations. L'analyse des informations implique le tri des données obtenues, en accordant la priorité aux sources originales, en vérifiant la fiabilité des informations provenant de différentes sources, et en se concentrant sur les références les plus récentes. Cette étape vise à éliminer les informations non pertinentes pour éviter de s'égarer dans la recherche.
+
+Ces étapes assurent une progression méthodique et rigoureuse tout au long du processus de recherche scientifique.
+
+## 3. La Stratégie du Maroc à l'Horizon 2025
+
+Depuis son indépendance, le Maroc a déployé d'importants efforts dans la formation des ressources humaines dédiées à la science et à l'enseignement. Il a rapidement nationalisé les cadres de l'enseignement supérieur et de la recherche, formant des compétences nationales tant au Maroc qu'à l'étranger.
+
+Aujourd'hui, le Maroc dispose d'un cadre réglementaire, d'organes d'orientation et de planification, ainsi que d'acteurs de la recherche contribuant au développement du pays et à l'avancement de la science.
+
+Le système de recherche scientifique marocain, évoluant sur trois périodes distinctes, est relativement récent, bien que certains établissements de recherche soient anciens. Après l'indépendance, des changements significatifs ont été apportés à l'université marocaine. À partir de 1996, la dimension recherche a pris une place plus importante dans la politique, avec l'allocation de budgets dédiés pour la première fois.
+
+Depuis l'an 2000, le système de recherche national a fait l'objet de plusieurs réformes, dont la stratégie nationale pour le développement de la recherche scientifique à l'horizon 2025. Cette stratégie vise à doter le Royaume d'une force de recherche capable de garantir le succès des nouvelles stratégies sectorielles.
+
+Cette stratégie met l'accent sur plusieurs orientations majeures, notamment :
+
+- La gouvernance et les performances du Système National de Recherche et d'Innovation (SNRI), englobant la régulation, l'organisation, la structuration, la coordination, l'évaluation, la valorisation, la communication et l'information.
+- La promotion et la motivation des ressources humaines, incluant des stratégies de recrutement et l'amélioration du cadre de travail.
+- La diversification des sources de financement pour améliorer la gestion financière des activités de recherche.
+- Le rendement scientifique des structures et activités de recherche, avec des incitations morales et matérielles, la visibilité, le soutien aux publications internationales, la restructuration des pôles de compétences, et la recherche doctorale.
+- L'amélioration des infrastructures scientifiques, couvrant les plateformes technologiques, les structures de valorisation, les parcs scientifiques, les centres de R&D, et les pôles technologiques.
+- La coopération internationale, englobant des aspects politiques, la capitalisation, l'élargissement vers l'Afrique et le monde arabe, les programmes de recherche, et les échanges scientifiques.
+
+
+
+## 4.0.1 La Revue Scientifique
+
+Les revues scientifiques, également appelées journaux en anglais, jouent un rôle essentiel dans la diffusion des résultats de la recherche. Elles sont généralement spécialisées dans différentes disciplines ou sous-disciplines universitaires. Les articles publiés remettent souvent en question les hypothèses communes ou les données de recherche existantes pour obtenir une compréhension plus claire des faits et des résultats. Ces revues peuvent inclure des rapports de recherche originale, des re-analyses de recherches antérieures, des revues de littérature dans des domaines spécifiques, des propositions de nouvelles théories non testées, ou des articles d'opinion, selon les politiques éditoriales de chaque revue.
+
+Chaque revue est identifiée par un numéro unique, l'ISSN (International Standard Serial Number). Elles sont spécialisées autour d'une discipline ou d'une thématique, et les articles sont rédigés par des chercheurs. Les revues sont généralement supervisées par un comité éditorial composé de spécialistes qui évaluent et valident le choix des articles à publier, un processus appelé l'évaluation par les pairs.
+
+Les revues scientifiques ont des caractéristiques distinctives qui les différencient des autres types de revues :
+- Les auteurs sont des chercheurs, des professionnels ou des doctorants plutôt que des journalistes.
+- Les articles sont signés par des auteurs identifiés, et des détails tels que le domaine de recherche, le poste, l'université ou le laboratoire sont fournis.
+- Les articles suivent souvent une structure particulière, comme la structure "IMRAD" (Introduction, Méthodologie, Résultats, And [et], Discussion).
+- Le vocabulaire utilisé dans les articles scientifiques est précis et spécifique à leur sujet.
+- Les articles peuvent prendre différentes formes, dont les plus courantes sont l'article de recherche, la note de recherche, ou le compte-rendu.
+
+La publication des revues scientifiques peut se faire sous forme de volumes, et chaque volume peut contenir plusieurs fascicules (numéros ou issues). Certaines revues électroniques, n'ayant pas de version imprimée, diffusent les articles dès qu'ils sont prêts, éliminant ainsi la notion de fascicule.
+
+
+## 4.0.2 Le Livre
+
+Également appelé monographie lorsqu'il traite d'un seul sujet, le livre se caractérise par sa longueur, comprenant par définition plus de 48 pages. Chaque livre est identifié par un numéro ISBN (International Standard Book Number). 
+
+Les livres, en tant que support d'information, offrent une exploration approfondie d'un sujet spécifique. Contrairement aux articles de revues qui peuvent se concentrer sur des aspects particuliers, les livres permettent une couverture plus étendue et détaillée. Ils peuvent être rédigés par un seul auteur ou par plusieurs collaborateurs, et peuvent aborder des sujets variés tels que des recherches approfondies, des analyses théoriques, des guides pratiques, des romans, etc.
+
+Le numéro ISBN attribué à chaque livre est un identifiant unique utilisé mondialement pour faciliter sa recherche et son référencement. Ces numéros permettent d'assurer une traçabilité précise, simplifiant la gestion et la recherche de livres dans les bases de données bibliographiques.
+
+
+## 4.0.3 Le Rapport de Thèse
+
+Similaire à l'article dans une revue scientifique, le rapport et la thèse de doctorat sont le reflet, bien que moins visible, des activités scientifiques des chercheurs. Le rapport est généralement destiné aux équipes de recherche, constituant souvent une étape essentielle pour obtenir le financement de la recherche.
+
+Quant à la thèse de doctorat, elle peut être structurée de deux manières principales : soit comme un texte synthétique basé sur des articles publiés, soit comme un texte reprenant les différentes parties d'un article empirique. Dans ce dernier cas, l'introduction contextualise l'étude dans son contexte historique, expose l'état actuel de la question et des recherches justifiant la problématique abordée, ainsi que l'objectif spécifique de la recherche.
+
+La rédaction suivante découle logiquement de l'introduction, comprenant la formulation des hypothèses testées, la méthodologie utilisée pour les tester, la présentation des résultats, et enfin, une discussion approfondie aboutissant à la thèse que le chercheur souhaite défendre. La thèse représente l'aboutissement du processus de formation du chercheur, démontrant sa capacité à mener un travail de recherche de manière autonome.
+
+Il est important de noter que les rapports et les thèses sont des documents non publiés, relevant souvent de la "littérature grise". Cependant, ils sont de plus en plus visibles, accessibles en ligne et fréquemment déposés en libre accès dans des dépôts institutionnels.
+
+
+
