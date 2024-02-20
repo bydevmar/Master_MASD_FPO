@@ -1,6 +1,6 @@
 # Welcome to My Master MASD FPO REPO
 
-> Hi! I'm Abdelfattah BOUHLALI, 
+> Hi! I'm Abdelfattah BOUHLALI , 
 
 
 #  English
@@ -11,8 +11,6 @@ Welcome to my GitHub repository! Here, you'll find a comprehensive collection of
 #  ARABIC
 مرحبًا بك في مستودع جيت هاب الخاص بي! هنا، ستجد مجموعة شاملة من الدورات، والمشاريع، وورش العمل، والتمارين، والعروض التقديمية. هذه المواد هي نتاج عملي الشخصي، والجهود التعاونية، والمساهمات من زملائي طوال برنامج الماجستير في الرياضيات التطبيقية، مع التركيز على علوم البيانات وهندسة البرمجيات.
 > استكشف وتمتع بثروة المعرفة المتعلقة بعلوم البيانات وهندسة البرمجيات التي جمعتها خلال رحلتي الأكاديمية.
-
-
 #  FRENCH
 Mon dépôt de programme de Master en Mathématiques Appliquées pour la Science des Données Bienvenue dans mon dépôt GitHub ! Ici, vous trouverez une collection complète de cours, travaux pratiques, travaux dirigés, projets, exercices et présentations. Ces documents sont le fruit de mon travail individuel, de collaborations et de contributions de mes camarades tout au long de mon programme de Master en Mathématiques Appliquées, avec une orientation particulière vers la Science des Données et le Génie Logiciel. 
 > Explorez et profitez de la richesse de connaissances liées à la science des données et au génie logiciel que j'ai rassemblée au cours de mon parcours académique.
