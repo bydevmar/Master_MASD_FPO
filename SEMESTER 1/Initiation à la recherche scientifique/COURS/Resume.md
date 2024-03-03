@@ -21,9 +21,6 @@
     - [4. Recherche Descriptive](#4-recherche-descriptive)
     - [5. Recherche Appliquée](#5-recherche-appliquée)
   - [2.0.5 Les modes d’investigation de la recherche](#205-les-modes-dinvestigation-de-la-recherche)
-    - [1. Approche Quantitative](#1-approche-quantitative)
-    - [2. Approche Qualitative](#2-approche-qualitative)
-    - [3. Approche Mixte](#3-approche-mixte)
   - [2.0.6 Les étapes de la recherche scientifique](#206-les-étapes-de-la-recherche-scientifique)
     - [1. Étape de Sélection du Sujet](#1-étape-de-sélection-du-sujet)
     - [2. Étape de Définition de la Question de Recherche](#2-étape-de-définition-de-la-question-de-recherche)
@@ -40,6 +37,16 @@
   - [4.0.6 La Note Scientifique](#406-la-note-scientifique)
     - [Justifications pour Rédiger une Note de Recherche:](#justifications-pour-rédiger-une-note-de-recherche)
     - [Caractéristiques de la Note de Recherche:](#caractéristiques-de-la-note-de-recherche)
+    - [Résumé du Chapitre 4.0.7 - La Structure d'Article Scientifique](#résumé-du-chapitre-407---la-structure-darticle-scientifique)
+      - [Introduction :](#introduction-)
+      - [Méthodologie :](#méthodologie-)
+      - [Résultats :](#résultats-)
+      - [Discussion :](#discussion-)
+      - [Conclusion et Résumé (Abstract) :](#conclusion-et-résumé-abstract-)
+      - [Références :](#références-)
+      - [Recherche Bibliographique :](#recherche-bibliographique-)
+      - [Choix de la Revue et Révision Finale :](#choix-de-la-revue-et-révision-finale-)
+- [5- Les éléments de l’édition scientifique](#5--les-éléments-de-lédition-scientifique)
 
 
 # Introduction 
@@ -156,20 +163,19 @@ La recherche appliquée s'oriente vers la résolution immédiate de problèmes c
 
 ## 2.0.5 Les modes d’investigation de la recherche
 
-Les modes d'investigations en recherche sont déterminés par les paradigmes et les objectifs du chercheur. Trois modes d'investigation sont disponibles : l'approche quantitative, l'approche qualitative et l'approche mixte.
+Les méthodes de recherche sont déterminées par les approches et les objectifs du chercheur. Il a le choix entre trois façons de mener ses investigations : l'approche quantitative, l'approche qualitative et l'approche mixte.
 
-### 1. Approche Quantitative
+**L'approche quantitative**
 
-Cette approche se concentre sur la collecte de données observables et quantifiables. Elle vise à décrire, expliquer, contrôler et prédire en se basant sur l'observation de faits objectifs existant indépendamment du chercheur. Elle utilise des instruments et des techniques quantitatives assurant la fidélité et la validité des données. Les résultats sont chiffrés, permettant des analyses statistiques et des recherches de liens entre les variables.
+Cette méthode vise à collecter des données observables et mesurables. Elle consiste à décrire, expliquer, contrôler et prédire en se basant sur l'observation de faits objectifs existant indépendamment du chercheur. Pour cela, on utilise des instruments ou des techniques de collecte de données quantitatives, assurant normalement leur fiabilité et validité. Cette approche aboutit à des données chiffrées permettant des analyses descriptives, des tableaux, des graphiques, des analyses statistiques pour trouver des liens entre les variables, et des analyses de corrélation ou d'association.
 
-### 2. Approche Qualitative
+**L'approche qualitative**
 
-L'approche qualitative commence par une situation concrète comportant un phénomène à comprendre, plutôt qu'à démontrer ou prouver. Le chercheur cherche à donner un sens au phénomène en le comprenant à travers l'observation, la description, l'interprétation, et l'appréciation du contexte. Des techniques qualitatives telles que les études de cas, les observations, et les entretiens sont utilisées pour obtenir des données de contenu, non chiffrées.
+Dans cette approche, le chercheur part d'une situation concrète impliquant un phénomène particulier à comprendre, plutôt qu'à démontrer, prouver ou contrôler. L'objectif est de donner un sens au phénomène à travers ou au-delà de l'observation, de la description, de l'interprétation, et de l'appréciation du contexte. Des techniques qualitatives telles que les études de cas, les observations, les entretiens semi-structurés ou non structurés sont utilisées. Cette approche fournit des données de contenu, non chiffrées.
 
-### 3. Approche Mixte
+**L'approche Mixte**
 
-L'approche mixte combine les approches quantitative et qualitative. Elle offre au chercheur la possibilité de tirer parti des avantages des deux modes. Cette approche aide à maîtriser le phénomène dans toutes ses dimensions. Les deux approches ne s'opposent pas mais se complètent. L'approche qualitative permet de recueillir des informations approfondies, tandis que l'approche quantitative permet des analyses statistiques. Cette combinaison est particulièrement utile dans la phase exploratoire d'un nouveau sujet de recherche, contribuant au développement de théories par un processus inductif.
-
+Cette approche combine les deux précédentes. Elle permet au chercheur de tirer parti à la fois des avantages de l'approche quantitative et de l'approche qualitative. Cette approche aide à maîtriser le phénomène sous toutes ses dimensions. Les deux approches ne s'opposent pas, elles se complètent. L'approche qualitative, par ses différentes méthodes, permet de collecter beaucoup d'informations, certaines inattendues, faisant progresser la recherche. Cependant, son enquête a une durée limitée et est choisie dans une phase exploratoire d'un nouveau sujet de recherche, permettant ainsi le développement d'une théorie, relevant d'un processus inductif.
 
 ## 2.0.6 Les étapes de la recherche scientifique
 
@@ -329,3 +335,59 @@ La note de recherche constitue un cas particulier de l'article de recherche, jus
   - Inclut deux à trois illustrations maximum (tableaux ou figures).
 
 La note de recherche offre une alternative concise tout en maintenant la rigueur scientifique, adaptée aux situations où une communication succincte est préférable. Son format compact la rend idéale pour partager des découvertes préliminaires dans des contextes compétitifs.
+
+### Résumé du Chapitre 4.0.7 - La Structure d'Article Scientifique
+
+Le chapitre aborde la structure générale des articles scientifiques, principalement basée sur le modèle IMRaD (Introduction, Méthodes, Résultats, et Discussion). Cette structure est universellement reconnue pour sa clarté et facilite la navigation des lecteurs dans le contenu.
+
+#### Introduction :
+- **Entonnoir Conceptuel :** L'introduction adopte une structure d'entonnoir, guidant le lecteur du général au particulier.
+- **Objectifs Clairs :** Elle doit préciser l'importance et le contexte de la recherche, énoncer la question de recherche, et formuler les objectifs de manière concise.
+- **Longueur Maîtrisée :** Elle ne doit pas dépasser 10 à 15 % du total des mots de l'article.
+
+#### Méthodologie :
+- **Détailler les Méthodes :** La méthodologie vise à décrire les méthodes et procédures de manière à permettre la reproduction de la recherche par d'autres.
+- **Caractéristiques à Inclure :** Protocole, objet de l'étude, variables mesurées, méthodes, techniques, appareils de mesure, adaptation de protocole, événements imprévus, méthodes de traitement statistique des données.
+
+#### Résultats :
+- **Clarté et Objectivité :** La section des résultats rapporte de manière claire et objective les résultats obtenus, répondant aux hypothèses ou questions de recherche.
+- **Hiérarchisation des Résultats :** Présentation des résultats significatifs, y compris ceux moins saillants.
+- **Pas d'Interprétation :** La section se concentre sur la présentation des faits sans interprétation.
+
+#### Discussion :
+- **Interprétation des Résultats :** La discussion répond aux questions ou hypothèses de départ, interprète les résultats, discute des implications pour la recherche et met en lumière les limites de l'étude.
+- **Comparaison avec la Littérature :** Comparaison des résultats avec d'autres études, soulignant les forces de la recherche.
+
+#### Conclusion et Résumé (Abstract) :
+- **Résumé Concis :** L'abstract doit résumer les questions de recherche, les réponses fournies par l'étude, et rappeler les objectifs ou applications de la recherche.
+- **Perspectives Futures :** Ouvrir des perspectives concrètes pour indiquer les futures applications ou directions de recherche.
+
+#### Références :
+- **Citation Appropriée :** Les références doivent fournir le plus haut niveau de preuve, être accessibles en libre accès, récentes, et publiées dans la revue ciblée.
+- **Vérification Rigoureuse :** Respecter le style demandé, citer la source originale, utiliser ses propres mots pour décrire les faits dérivés des références, et vérifier minutieusement la liste finale.
+
+#### Recherche Bibliographique :
+- **Utilisation de Bases de Données :** Insister sur la consultation de bases de données pour une recherche bibliographique approfondie.
+- **Vérification Critique :** Vérifier la cohérence des articles identifiés et retourner aux sources pour éviter les erreurs d'interprétation.
+
+#### Choix de la Revue et Révision Finale :
+- **Choix Ciblé :** Choisir la revue cible en fonction des objectifs et du public visé.
+- **Révision avec Recul :** Attendre quelques jours après la rédaction pour une révision critique, en s'assurant de la cohérence, de l'exactitude, de la logique, et de la conformité aux références bibliographiques.
+
+
+
+
+--Manque 
+
+
+
+
+
+
+
+
+
+
+
+
+# 5- Les éléments de l’édition scientifique
