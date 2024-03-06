@@ -1,11 +1,6 @@
-#Exercice 1
-
-t1 = [31,28,31]
-t2 = ['janvier','Fevrier','Mars']
-t3 = []
-
-for i in range(len(t1)):
-    t3.append(t2[i])
-    t3.append(t1[i])
-
-print(t3)
+with open("tableMultiplication.txt", "w") as fichier :
+    for i in range(2 , 31):
+        for j in range(1 , 21):
+            ligne = f"{i} x {j} = {i*j}"
+            fichier.write(ligne + "\n")
+        
